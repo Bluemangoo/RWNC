@@ -15,6 +15,6 @@ Run With No Console tool
 
 2. Devcpp 5.6.3 and ptheard (if you want to compile the code)
 
-   Download pthread [HERE](ftp://sourceware.org/pub/pthreads-win32/prebuilt-dll-2-9-1-release/)
+   Download pthread in ***ftp://sourceware.org/pub/pthreads-win32/prebuilt-dll-2-9-1-release/***  (Open it with explorer or it can be hard to download)
 
    Or you can just download the RWNC.exe. I've compiled that for you.
