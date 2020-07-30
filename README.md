@@ -3,9 +3,9 @@
 ## What is RWNC
 Run With No Console tool
 ## How to use
-1. Rename your server's core as **"obr.bat"** or **"obr.exe"**.
+1. Rename your server launcher as **"obr.bat"** or **"obr.exe"**.
 
-2. Put the core and RWNC tool in the same folder.
+2. Put the launcher and RWNC tool in the same folder.
 
 3. Run RWNC
 
