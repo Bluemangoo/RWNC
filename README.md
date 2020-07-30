@@ -1,5 +1,5 @@
 # RWNC 1.2.1.1 by bluemangoo
-`Don't want to see the console? Use RWNC to help you!`
+*Don't want to see the console? Use RWNC to help you!*
 ## What is RWNC
 Run With No Console tool
 ## How to use
