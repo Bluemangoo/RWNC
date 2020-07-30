@@ -3,7 +3,7 @@
 ## What is RWNC
 Run With No Console tool
 ## How to use
-1. Rename your server's core as **"server.jar"*.
+1. Rename your server's core as **"server.jar"**.
 
 2. Put the core and RWNC tool in the same folder.
 
