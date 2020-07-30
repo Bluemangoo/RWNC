@@ -23,6 +23,6 @@ int main()
 {
 	pthread_t tid;  
     pthread_create(&tid, NULL, con, NULL);
-	system("java -Xms4G -Xmx6G -Xverify:none -XX:+UseParallelOldGC -XX:MaxInlineSize=420 -jar server.jar nogui");
+	system("obr");
 	return 0;
 }
