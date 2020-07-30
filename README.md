@@ -9,7 +9,7 @@ Run With No Console tool
 
 3. Run RWNC
 
-4.Then you can use F12 to hide the console and Pause to show the console.
+4. Then you can use F12 to hide the console and Pause to show the console.
 ## Requirements
 1. Java 8 or higher (to run the minecraft core)
 
