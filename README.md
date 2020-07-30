@@ -1,9 +1,9 @@
-# RWNC 1.2.0.1 by bluemangoo
+# RWNC 1.2.1.1 by bluemangoo
 `Don't want to see the console? Use RWNC to help you!`
 ## What is RWNC
 Run With No Console tool
 ## How to use
-1. Rename your server's core as **"server.jar"**.
+1. Rename your server's core as **"obr.bat"** or **"obr.exe"**.
 
 2. Put the core and RWNC tool in the same folder.
 
