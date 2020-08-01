@@ -1,11 +1,11 @@
 # RWNC 1.2.1.1 by bluemangoo
 *Don't want to see the console? Use RWNC to help you!*
 ## What is RWNC
-Run With No Console tool
+Run With No Console launcher
 ## How to use
-1. Rename your server launcher as **"obr.bat"** or **"obr.exe"**.
+1. Rename your server launcher as **"obr.bat"** or **"obr.exe"**
 
-2. Put the launcher and RWNC tool in the same folder.
+2. Put the launcher and RWNC tool in the same folder
 
 3. Run RWNC
 
@@ -17,4 +17,4 @@ Run With No Console tool
 
    Download pthread in ***ftp://sourceware.org/pub/pthreads-win32/prebuilt-dll-2-9-1-release/***  (Open it with explorer or it can be hard to download)
 
-   Or you can just download the RWNC.exe. I've already compiled the code for you.
+   Or you can just download the RWNC.exe. I've already compiled the code for you
