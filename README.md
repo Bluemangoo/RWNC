@@ -3,11 +3,9 @@
 ## What is RWNC
 Run With No Console launcher.
 ## How to use
-1. Put the launcher and RWNC tool in the same folder.
+1. Open CMD and do `cd <the folder where RWNC is>`
 
-2. Open CMD and do `cd <the folder where RWNC is>`
-
-3. Do `RWNC <command>`
+2. Do `RWNC <command>`
 
    ***For example: ***
    
@@ -15,7 +13,9 @@ Run With No Console launcher.
    
    ***Do `RWNC java -Xms256M -Xmx1G -jar server.jar` to run the server***
 
-4. Then you can use F12 to hide the console and Pause to show the console.
+3. Then you can use F12 to hide the console and Pause to show the console.
+
+Tip: copy RWNC to system32 folder to skip step 1.
 ## Requirements
 1. Devcpp 5.6.3 and ptheard (if you want to compile the code).
 
