@@ -17,9 +17,7 @@ Run With No Console launcher.
 
 4. Then you can use F12 to hide the console and Pause to show the console.
 ## Requirements
-1. Java 8 or higher (to run the minecraft core).
-
-2. Devcpp 5.6.3 and ptheard (if you want to compile the code).
+1. Devcpp 5.6.3 and ptheard (if you want to compile the code).
 
    Download pthread in ***ftp://sourceware.org/pub/pthreads-win32/prebuilt-dll-2-9-1-release/***  (Open it with explorer or it can be hard to download).
 
