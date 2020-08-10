@@ -1,13 +1,13 @@
-# RWNC 1.2.1.1 by bluemangoo
+# RWNC 2.1.1.1 by bluemangoo
 *Don't want to see the console? Use RWNC to help you!*
 ## What is RWNC
 Run With No Console launcher.
 ## How to use
-1. Rename your server launcher as **"obr.bat"** or **"obr.exe"**.
+1. Put the launcher and RWNC tool in the same folder.
 
-2. Put the launcher and RWNC tool in the same folder.
+2. Open CMD and do `cd <the folder where RWNC is>`
 
-3. Run RWNC
+3. Do `RWNC <command>`
 
 4. Then you can use F12 to hide the console and Pause to show the console.
 ## Requirements
@@ -24,3 +24,5 @@ Run With No Console launcher.
 ### 1.2.1.1
 1. Be able to run files which can be run.
 2. Fix various errors。
+### 2.1.1.1
+1. Now RWNC becomes a cmd tool. Do `RWNC <command>` to use!
