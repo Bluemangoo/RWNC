@@ -21,7 +21,7 @@ Run With No Console launcher.
 
    Download pthread in ***ftp://sourceware.org/pub/pthreads-win32/prebuilt-dll-2-9-1-release/***  (Open it with explorer or it can be hard to download).
    
-   Lanzou Cloud: ***https://wws.lanzous.com/iAI7pfgtpgb***
+   Lanzous Cloud: ***https://wws.lanzous.com/iAI7pfgtpgb***
 
    Or you can just download the RWNC.exe. I've already compiled the code for you.
 ## Updates
