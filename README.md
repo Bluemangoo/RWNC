@@ -9,6 +9,12 @@ Run With No Console launcher.
 
 3. Do `RWNC <command>`
 
+   ***For example: ***
+   
+   ***To run the minecraft server***
+   
+   ***Do `RWNC java -Xms256M -Xmx1G` to run the server***
+
 4. Then you can use F12 to hide the console and Pause to show the console.
 ## Requirements
 1. Java 8 or higher (to run the minecraft core).
