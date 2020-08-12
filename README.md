@@ -19,7 +19,7 @@ Tip: copy RWNC to system32 folder to skip step 1.
 ## Requirements
 1. Devcpp 5.6.3 and ptheard (if you want to compile the code).
 
-   Download pthread in ***ftp://sourceware.org/pub/pthreads-win32/prebuilt-dll-2-9-1-release/***  (Open it with explorer or it can be hard to download).
+   Download pthread in ***ftp://sourceware.org/pub/pthreads-win32/pthreads-w32-2-9-1-release.zip***
    
    Lanzous Cloud: ***https://wws.lanzous.com/iAI7pfgtpgb***
 
