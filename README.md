@@ -21,7 +21,7 @@ Tip: copy RWNC to system32 folder to skip step 1.
 
    Download pthread in ***ftp://sourceware.org/pub/pthreads-win32/pthreads-w32-2-9-1-release.zip***
    
-   Lanzous Cloud: ***https://wws.lanzous.com/iAI7pfgtpgb***
+   Lanzous Cloud: ***https://wws.lanzous.com/iAI7pfgtpgb***     https://www.cnblogs.com/hujunzheng/p/4815033.html
 
    Or you can just download the RWNC.exe. I've already compiled the code for you.
 ## Updates
